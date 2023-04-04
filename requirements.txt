@@ -1,0 +1,5 @@
+datetime
+aiogram
+asyncio
+bs4 
+requests
